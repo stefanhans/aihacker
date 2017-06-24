@@ -17,6 +17,8 @@
 
 ### Challenge 
 
+[Global AI Hackathon Challenges .pdf](https://drive.google.com/file/d/0B2gcVmaEcT3VWno4Y2JrU1RJaGM/view)
+
 ```
 TOPIC: Make News Real Again!
 
