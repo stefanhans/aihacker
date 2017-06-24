@@ -19,6 +19,9 @@
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
 
+### Other Links
+
+[Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
 
 ### Challenge 
 
