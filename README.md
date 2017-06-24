@@ -6,8 +6,6 @@
 
 ### Work
 
-* [Github Repo](https://github.com/stefanhans/aihacker)
-
 * [Docker Repo](https://hub.docker.com/r/stefanhans/ai_hackathon/)
 
 * [Slack Channels](https://aihackathonmunich.slack.com)
@@ -21,7 +19,10 @@
 
 ### News API
 
-[Google News API](https://newsapi.org/google-news-api) 
+* [Github Repo go-fakehack](https://github.com/stefanhans/go-fakehack)
+
+
+* [Google News API](https://newsapi.org/google-news-api) 
 
 ([Powered by News API](http://NewsAPI.org))
 
