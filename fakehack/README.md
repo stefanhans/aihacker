@@ -4,7 +4,7 @@ FakeHack
 AI Detects Fake News
 
 Project Organization
-------------
+------------ --
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
