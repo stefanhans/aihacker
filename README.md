@@ -14,6 +14,11 @@
 
 ### Data
 
+* [The 20 newsgroups text dataset](http://scikit-learn.org/stable/datasets/twenty_newsgroups.html)
+* [BBC Datasets](http://mlg.ucd.ie/datasets/bbc.html)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+* [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
+
 
 ### Challenge 
 
