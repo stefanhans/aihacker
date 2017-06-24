@@ -19,6 +19,17 @@
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Datasets for Data Mining and Data Science](http://www.kdnuggets.com/datasets/index.html)
 
+### News API
+
+[Google News API](https://newsapi.org/google-news-api) 
+
+([Powered by News API](http://NewsAPI.org))
+
+
+API Key: 66bef672eac2491f823da48d20cf9b73
+
+(example [https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey=66bef672eac2491f823da48d20cf9b73](https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey=66bef672eac2491f823da48d20cf9b73))
+
 ### Other Links
 
 [Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science)
